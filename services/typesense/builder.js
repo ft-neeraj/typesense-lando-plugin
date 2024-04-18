@@ -10,8 +10,8 @@ const _ = {
 module.exports = {
   name: 'typesense',
   config: {
-    version: '0.19.0',
-    supported: ['0.19.0', '0.18.0', '0.17.0'],
+    version: '26.0',
+    supported: ['26.0', '0.25.2', '0.25.1'],
     patchesSupported: true,
     confSrc: __dirname,
     port: '8108',
